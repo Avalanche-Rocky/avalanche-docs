@@ -8,7 +8,7 @@ Avalancheでの構築に制限は存在しません。開発者は、強力か�
 
   
 
-## [](https://github.com/ava-labs/avalanche-docs/blob/master/README.md#getting-started)Getting Started
+## [](https://github.com/ava-labs/avalanche-docs/blob/master/README.md#getting-started)入門
 
 
 {% tabs %} {% tab title="Coming From Ethereum?" %} {% page-ref page="build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask.md" %}
@@ -199,5 +199,5 @@ Solidityでのスマートコントラクトの作成、Remix、Metamask、Truff
 
 複雑なカスタムルールの条件設定が可能なデジタルスマートアセットの作成と取引プロセスの簡易化をネイティブサポートしています。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTQ5Njk0NF19
+eyJoaXN0b3J5IjpbLTIxMDQzNDA5MjZdfQ==
 -->
